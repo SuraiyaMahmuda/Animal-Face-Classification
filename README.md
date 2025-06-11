@@ -59,6 +59,7 @@ pip install -r requirements.txt
 
 ---
 
+
 ## 🐾 Dataset
 
 The dataset used includes face images of various animals (e.g., **cats**, **dogs**, **pandas**).
@@ -73,4 +74,4 @@ Images are pre-organized into subfolders for each class.
 
 - Add a **Flask web interface** for uploading and classifying images  
 - Use **transfer learning** with ResNet, VGG, or MobileNet for better accuracy  
-- Extend to more **animal species** or support **real-time webcam input**  
+- Extend to more **animal species** or support **real-time webcam input**
