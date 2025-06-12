@@ -4,10 +4,6 @@ This project implements a deep learning model to classify different **animal fac
 
 ---
 
-## 📁 Project Structure
-
----
-
 ## 🧠 Key Features
 
 - 🖼️ Image preprocessing and augmentation  
@@ -16,6 +12,11 @@ This project implements a deep learning model to classify different **animal fac
 - 📊 Evaluation using confusion matrix and metrics  
 - 💾 Model saving and loading for inference  
 
+---
+
+## 🐾 **Dataset**
+
+The dataset used includes face images of various animals (e.g., **cats**, **dogs**, **pandas**).
 ---
 
 ## 🚀 How It Works
@@ -46,32 +47,3 @@ Install dependencies with:
 pip install -r requirements.txt
 
 
----
-
-## 📊 Example Results
-
-| Metric   | Value (Example) |
-|----------|------------------|
-| Accuracy | 92.5%            |
-| Loss     | 0.28             |
-
-> Results will vary depending on dataset and training time.
-
----
-
-
-## 🐾 Dataset
-
-The dataset used includes face images of various animals (e.g., **cats**, **dogs**, **pandas**).
-
-Images are pre-organized into subfolders for each class.
-
-**Example folder structure:**
-
-<pre lang="markdown"> ``` dataset/ ├── cat/ ├── dog/ ├── panda/ ``` </pre>
-
-## 📌 Future Work
-
-- Add a **Flask web interface** for uploading and classifying images  
-- Use **transfer learning** with ResNet, VGG, or MobileNet for better accuracy  
-- Extend to more **animal species** or support **real-time webcam input**
