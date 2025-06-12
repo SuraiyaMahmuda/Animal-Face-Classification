@@ -67,6 +67,22 @@ The dataset used includes face images of various animals (e.g., **cats**, **dogs
 
  --- 
 
+ ## 📊 Snapshots
+
+![P](ml1.png)
+
+![P](ml2.png)
+
+![P](ml3.png)
+
+![P](ml4.png)
+
+![P](ml5.png)
+
+![P](ml6.png)
+
+---
+
  ## 🧰 Results
 
 |     🧪 Evaluation Metric      |       🔢 Score (%)        |
