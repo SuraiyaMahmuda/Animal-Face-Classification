@@ -65,8 +65,6 @@ The dataset used includes face images of various animals (e.g., **cats**, **dogs
    git clone https://github.com/SuraiyaMahmuda/Animal-Face-Classification.git
    cd Animal-Face-Classification
 
-   
-
 |     🧪 Evaluation Metric      |       🔢 Score (%)        |
 |------------------------------|---------------------------|
 | Accuracy                     | 93.4%                     |
