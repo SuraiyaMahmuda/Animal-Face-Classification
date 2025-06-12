@@ -69,17 +69,19 @@ The dataset used includes face images of various animals (e.g., **cats**, **dogs
 
  ## 📊 Snapshots
 
+##Prepare the Dataset
 ![P](ml1.png)
 
+##Processing
 ![P](ml2.png)
 
-![P](ml3.png)
-
-![P](ml4.png)
-
+##Confusion Matrix
 ![P](ml5.png)
 
 ![P](ml6.png)
+
+##Grid Search
+![P](ml7.png)
 
 ---
 
