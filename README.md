@@ -1,6 +1,6 @@
-# 🐶 Animal Face Classification
+# 🐶🐱 Animal Face Classification
 
-This project implements a deep learning model to classify different **animal faces** using Convolutional Neural Networks (CNNs). It is designed to handle multi-class image classification tasks and was developed using **Python** and **TensorFlow/Keras** in a **Jupyter Notebook** environment.
+This project implements a deep learning model to classify different **animal faces** using Convolutional Neural Networks (CNNs). It is designed to handle multi-class image classification tasks to leveraging transfer learning with modern CNN architectures and PyTorch, the model is trained on a structured dataset to recognize various animal faces with high accuracy.
 
 ---
 
@@ -11,6 +11,24 @@ This project implements a deep learning model to classify different **animal fac
 - 📈 Training visualization with accuracy/loss graphs  
 - 📊 Evaluation using confusion matrix and metrics  
 - 💾 Model saving and loading for inference  
+
+---
+
+## 🧰 Tools & Frameworks
+
+- **Language**: Python 3.8+
+- **Framework**: PyTorch
+- **Libraries**:
+  - torchvision
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - Pillow
+- **Development Environment**:
+  - Jupyter Notebooks
+  - Google Colab / Local
+- **Model**: ResNet50 (pretrained)
 
 ---
 
@@ -40,11 +58,20 @@ The dataset used includes face images of various animals (e.g., **cats**, **dogs
 
 ---
 
-## 🔧 Requirements
+## 🛠️ Installation
 
-Install dependencies with:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SuraiyaMahmuda/Animal-Face-Classification.git
+   cd Animal-Face-Classification
 
-```bash
-pip install -r requirements.txt
+   
+
+|     🧪 Evaluation Metric      |       🔢 Score (%)        |
+|------------------------------|---------------------------|
+| Accuracy                     | 93.4%                     |
+| Precision                    | 92.8%                     |
+| Recall                       | 92.0%                     |
+| F1-score                     | 92.4%                     |
 
 
