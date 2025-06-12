@@ -17,6 +17,7 @@ This project implements a deep learning model to classify different **animal fac
 ## 🐾 **Dataset**
 
 The dataset used includes face images of various animals (e.g., **cats**, **dogs**, **pandas**).
+
 ---
 
 ## 🚀 How It Works
